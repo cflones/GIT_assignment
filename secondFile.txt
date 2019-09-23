@@ -1,4 +1,7 @@
+<<<<<<< 
 UserA change
+UserB changes
+>>>>>>> 9e6e6745a0e18c77efd936d62ee935cd7d5c45c8
 This is the initial contents
 of the second file that comprises
 our most excellent project.
